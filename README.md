@@ -1,4 +1,4 @@
-# sql-business-analysis-project
+# SQL-business-analysis-project
 SQL Business Analysis Project using MySQL and Superstore Dataset
 This project focuses on analyzing retail sales data using SQL queries to identify sales trends, customer behavior, product performance, and regional business insights.
 # TOOLS USED
